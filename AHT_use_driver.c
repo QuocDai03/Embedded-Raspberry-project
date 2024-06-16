@@ -53,4 +53,5 @@ int main() {
     // Close the device file (not reached in this infinite loop example)
     close(fd);
     return 0;
+
 }
