@@ -18,6 +18,7 @@ Here is how I use these files of my project in Raspberry Pi 4 model B:
 
 
 *Note: After finishing above steps, now i can use my driver.
+
 **If you want to use file AHT_use_driver.c ( using driver without library). 
 + Step 6a: Using command "gcc AHT_use_driver.c -o AHT_use_driver" to commpile this file. 
 + Step 7a: Using command "sudo ./AHT_use_driver" to run file and see the result.
