@@ -260,7 +260,7 @@ module_exit(aht20_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tran Quoc Dai");
-MODULE_DESCRIPTION("AHT20 Measuring Temperature and Humidity Sensor Driver");
+MODULE_DESCRIPTION("AHT20 Measuring Temperature and Humidity Sensor Device Driver");
 MODULE_VERSION("2.0");
 
 
