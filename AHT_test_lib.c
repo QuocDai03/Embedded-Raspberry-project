@@ -73,4 +73,5 @@ int read_both(int fd, float *humidity, float *temperature) {
     *humidity = convert_humidity(raw_humidity);
     *temperature = convert_temperature(raw_temperature);
     return 0;
+
 }
